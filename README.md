@@ -1,7 +1,10 @@
-# N-sample-Trace-Generator
+N-sample Trace Generator
+=====
+
 This code generates N samples of the input traces on selected months.
 
 # Instructions
+
 1. Download the file.
 2. Go to Input folder. Please note that this code only process one csv file.
   2.a. Place the csv file containing the traces in Input folder.
